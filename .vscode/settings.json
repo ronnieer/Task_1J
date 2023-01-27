@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "d:\\Software_Developer\\Course_1\\Task_1J",
+            "binaryPath": "d:\\Software_Developer\\Course_1\\Task_1J\\main.exe",
+            "binaryArgs": []
+        }
+    ]
+}
