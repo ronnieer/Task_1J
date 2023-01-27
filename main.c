@@ -15,7 +15,5 @@ void main(void)
     printf("%s%s", "\n\tTask One:", "\n");
     printf("%s%s%s", "\n\tMy Name Is ", strMyName, "\n");
     printf("%s%d%s", "\n\tThe Name Contains ", lenMyName, " Characters\n\n\n");
-    printf("%s%d%s", "\n\tThe Name Contains ", lenMyName, " Characters\n\n\n");
-    printf("%s%d%s", "\n\tThe Name Contains ", lenMyName, " Characters\n\n\n");
     return;
 }
